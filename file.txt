@@ -1,3 +1,5 @@
 file added,committed,pushed to remote.
 this repo was not cloned from remote so it will not have remote url set.
 we have to set it manually and then push file
+
+if we directly try to push it it should give error that remote upstream is not set
